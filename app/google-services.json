@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "217024384978",
+    "project_id": "chatterplayv2",
+    "storage_bucket": "chatterplayv2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:217024384978:android:f2eac6db5ed300ec88c20b",
+        "android_client_info": {
+          "package_name": "com.chatter.chatterplayv2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQtgFzdkQZU-C_MN7bEtpzLQS5tK8J4eo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
